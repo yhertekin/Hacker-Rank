@@ -42,28 +42,29 @@ This method returns a right aligned string of length width.
 
 #### Sample Output 
 
-    H    
-   HHH   
-  HHHHH  
- HHHHHHH 
-HHHHHHHHH
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-                    HHHHHHHHH 
-                     HHHHHHH  
-                      HHHHH   
-                       HHH    
-                        H 
+        H    
+       HHH   
+      HHHHH  
+     HHHHHHH 
+    HHHHHHHHH
+      HHHHH               HHHHH             
+      HHHHH               HHHHH             
+      HHHHH               HHHHH             
+      HHHHH               HHHHH             
+      HHHHH               HHHHH             
+      HHHHH               HHHHH             
+      HHHHHHHHHHHHHHHHHHHHHHHHH   
+      HHHHHHHHHHHHHHHHHHHHHHHHH   
+      HHHHHHHHHHHHHHHHHHHHHHHHH   
+      HHHHH               HHHHH             
+      HHHHH               HHHHH             
+      HHHHH               HHHHH             
+      HHHHH               HHHHH             
+      HHHHH               HHHHH             
+      HHHHH               HHHHH             
+                        HHHHHHHHH 
+                         HHHHHHH  
+                          HHHHH   
+                           HHH    
+                            H 
+                        
